@@ -1,0 +1,22 @@
+{
+    "uat": {
+        "Server": "192.168.100.63",
+        "Port": 1433,
+        "Database": "BenchmadeDB",
+        "uid": "BENCHMADE\\SQLOT",
+        "password": "oqLGW2wq4AlKgv4lygSN",
+        "email-server": "relay.benchmade.com",
+        "email-to": "rjohnson@benchmade.com",
+        "email-from": "rjohnson@benchmade.com"
+    },
+    "prod": {
+        "Server": "192.168.100.63",
+        "Port": 1433,
+        "Database": "BenchmadeDB",
+        "uid": "BENCHMADE\\SQLOT",
+        "password": "oqLGW2wq4AlKgv4lygSN",
+        "email-server": "relay.benchmade.com",
+        "email-to": "rjohnson@benchmade.com; nhays@benchmade.com; mohlrich@benchmade.com",
+        "email-from": "dailykitlist@benchmade.com"
+    }
+}
